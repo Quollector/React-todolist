@@ -7,7 +7,7 @@ import Form from './components/Form';
 function App() {
   return (
     <div 
-    className="App min-h-screen bg-gradient-to-r from-purple-600 to-purple-800 box-border px-10 bg-center bg-no-repeat bg-cover bg-opacity-75 md:px-24 xl:px-40"
+    className="App min-h-screen box-border px-10 bg-center bg-no-repeat bg-cover bg-opacity-25 md:px-24 xl:px-40 2xl:px-72"
     style={{backgroundImage: `url(${GenBG})`}}
     >
       <Form />
