@@ -2,8 +2,8 @@ import { useState } from 'react';
 
 import GenBG from './assets/images/gen_bg.jpg';
 
-import Form from './Components/Form';
-import Items from './Components/Items';
+import Form from './components/Form';
+import Items from './components/Items';
 
 function App() {
   return (
